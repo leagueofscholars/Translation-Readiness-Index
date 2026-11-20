@@ -4,3 +4,4 @@ specter2_embeddings.npy filter=lfs diff=lfs merge=lfs -text
 Data/Key_Training_Data.csv filter=lfs diff=lfs merge=lfs -text
 Data/16k_UWA_results_classifer_v1.csv filter=lfs diff=lfs merge=lfs -text
 Data/specter2_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+Third-Party-Data/science_compot.csv filter=lfs diff=lfs merge=lfs -text
